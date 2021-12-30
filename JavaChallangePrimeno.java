@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class JavaChallangePrimeno
+public class JavaChallengePrimeno
 {
     public static void main(String args[])
     {
