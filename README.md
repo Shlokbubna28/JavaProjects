@@ -1,2 +1,2 @@
 # JavaProjects
-Name : Shlok Bubna , This repository is there so that the captains can check my projects 
+Name : Shlok Bubna , This repository contains all "MY CAPTAIN", java projects.
